@@ -19,3 +19,7 @@ This project demonstrates the deployment of an isolated Active Directory (AD) en
 - <b>Windows Server 2022</b>
 - <b>Active Directory Domain Services (AD DS)</b>
 - <b>DNS Server Role</b>
+
+<p align="center">
+  creating a user domain
+<img src="https://imgur.com/a/soM73rp" height='80%' width="80%" alt="Users"/>
