@@ -20,6 +20,7 @@ This project demonstrates the deployment of an isolated Active Directory (AD) en
 - <b>Active Directory Domain Services (AD DS)</b>
 - <b>DNS Server Role</b>
 
+<h2>Screenshots</h2>
 <p align="center">
-  creating a user domain
-<img src="https://imgur.com/a/soM73rp" height='80%' width="80%" alt="Users"/>
+  Creating a User Domain <br/>
+<img src="https://github.com/RelixDan02/ActiveDirectoryLab/blob/main/Usercreation" height='80%' width="80%" alt="Users"/>
