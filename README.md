@@ -19,7 +19,3 @@ This project demonstrates the deployment of an isolated Active Directory (AD) en
 - <b>Windows Server 2022</b>
 - <b>Active Directory Domain Services (AD DS)</b>
 - <b>DNS Server Role</b>
-
-<p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
